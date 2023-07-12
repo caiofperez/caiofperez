@@ -2,7 +2,7 @@
 
 <h1 align="center">Welcome to my profile 👋</h1>
 
-<h3 align="center">Software Quality Analyst</h3>
+<h3 align="center">Software Quality Engineer</h3>
 
  <div align="center">
 
